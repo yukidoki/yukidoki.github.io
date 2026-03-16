@@ -36,24 +36,4 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 hexo deploy
 ```
 
-![1](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
-![2](https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg)
-![3](https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg)
-![4](https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg)
-![5](https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg)
-![6](https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg)
-![7](https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg)
-![8](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg)
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
-
-{% gallery %}
-![1](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
-![2](https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg)
-![3](https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg)
-![4](https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg)
-![5](https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg)
-![6](https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg)
-![7](https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg)
-![8](https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg)
-{% endgallery %}
